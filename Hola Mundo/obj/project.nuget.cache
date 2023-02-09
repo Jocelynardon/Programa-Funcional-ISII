@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gqC6Zj0nkqbTDoSHvKN1HsXDGJCeTcobvcIN5sfiEQhXUm0yw6J+1Zz6Ohb+MF6bmp29+wHBcvixEJaAglEFEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jocel\\source\\repos\\Hola Mundo\\Hola Mundo.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jocel\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
